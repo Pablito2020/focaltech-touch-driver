@@ -1,5 +1,6 @@
 # FT5336 TOUCHSCREEN DRIVER
 ==============
+
 This driver had been tested on this devices:
  * Aquaris E4.5
  * Fnac 2 4.5
