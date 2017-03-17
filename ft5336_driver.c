@@ -141,12 +141,12 @@ atomic_t    upgrading;
 #endif /* CONFIG_SUPPORT_FTS_CTP_UPG */
 
 //************* add for doubletap + psensor ************//
-#ifdef CONFIG_MTK_TMD2772_AUTO
+/*#ifdef CONFIG_MTK_TMD2772_AUTO
 unsigned short ps_data;
 extern long TMD2772_enable_ps_tp(int value);
 extern long TMD2772_read_ps_tp(u16 *pvalue);
 extern int TMD2772_get_ps_value_tp(u16 value);
-#endif
+#endif*/
 //************* add for doubletap + psensor ************//
 
 int g_v_magnify_x =TPD_VELOCITY_CUSTOM_X;
